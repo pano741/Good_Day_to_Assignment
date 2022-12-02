@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="좌우이동" type="RESOURCE"/>
+  <resource name="점프" type="RESOURCE"/>
+  <resource name="벽점프" type="RESOURCE"/>
+</resources>

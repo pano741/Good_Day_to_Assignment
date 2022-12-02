@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="표지판" type="RESOURCE"/>
+  <resource name="튜토리얼" type="RESOURCE"/>
+  <resource name="sp_ez_ya" type="RESOURCE"/>
+  <resource name="sp_tm_ya" type="RESOURCE"/>
+  <resource name="sp_kw" type="RESOURCE"/>
+  <resource name="sp_kw_final" type="RESOURCE"/>
+</resources>

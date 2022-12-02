@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spike" type="RESOURCE"/>
+  <resource name="ghost_sprite" type="RESOURCE"/>
+  <resource name="left" type="RESOURCE"/>
+  <resource name="up" type="RESOURCE"/>
+  <resource name="right" type="RESOURCE"/>
+  <resource name="bottle" type="RESOURCE"/>
+  <resource name="ez_ult" type="RESOURCE"/>
+  <resource name="sp_mush" type="RESOURCE"/>
+  <resource name="sp_mush2" type="RESOURCE"/>
+  <resource name="sp_virus" type="RESOURCE"/>
+  <resource name="sp_trash" type="RESOURCE"/>
+</resources>

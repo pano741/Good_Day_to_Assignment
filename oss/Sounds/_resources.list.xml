@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="teemo" type="RESOURCE"/>
+  <resource name="mgme" type="RESOURCE"/>
+  <resource name="ez_ult" type="RESOURCE"/>
+  <resource name="win_error" type="RESOURCE"/>
+  <resource name="lol_slain" type="RESOURCE"/>
+</resources>

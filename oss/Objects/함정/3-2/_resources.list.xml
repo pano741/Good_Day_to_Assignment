@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="ez_ult" type="RESOURCE"/>
+  <resource name="ez_ult_right" type="RESOURCE"/>
+  <resource name="ez_ult_left" type="RESOURCE"/>
+  <resource name="ez_ult_up" type="RESOURCE"/>
+  <resource name="obj_mush" type="RESOURCE"/>
+</resources>

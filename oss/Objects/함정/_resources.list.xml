@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="parent_hostile" type="RESOURCE"/>
+  <resource name="spike_up" type="RESOURCE"/>
+  <resource name="spike_right" type="RESOURCE"/>
+  <resource name="spike_down" type="RESOURCE"/>
+  <resource name="spike_left" type="RESOURCE"/>
+  <resource name="right" type="RESOURCE"/>
+  <resource name="up" type="RESOURCE"/>
+  <resource name="left" type="RESOURCE"/>
+  <resource name="3-1" type="GROUP"/>
+  <resource name="3-2" type="GROUP"/>
+  <resource name="bottle_down" type="RESOURCE"/>
+  <resource name="bottle_up" type="RESOURCE"/>
+  <resource name="bot_trigger_down" type="RESOURCE"/>
+  <resource name="bot_trigger_up" type="RESOURCE"/>
+  <resource name="pseudo_trigger" type="RESOURCE"/>
+</resources>

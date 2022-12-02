@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_virus" type="RESOURCE"/>
+  <resource name="obj_trash" type="RESOURCE"/>
+  <resource name="obj_kw" type="RESOURCE"/>
+  <resource name="obj_no_text" type="RESOURCE"/>
+</resources>

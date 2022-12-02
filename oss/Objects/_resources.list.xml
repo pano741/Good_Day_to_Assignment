@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="캐릭터" type="GROUP"/>
+  <resource name="플랫폼" type="GROUP"/>
+  <resource name="함정" type="GROUP"/>
+  <resource name="튜토리얼" type="GROUP"/>
+  <resource name="굳건이" type="RESOURCE"/>
+  <resource name="굳건이2" type="RESOURCE"/>
+  <resource name="철창" type="RESOURCE"/>
+  <resource name="ghost_spike" type="RESOURCE"/>
+  <resource name="입영통지서_down" type="RESOURCE"/>
+  <resource name="입영통지서_right" type="RESOURCE"/>
+  <resource name="2-2 이동" type="RESOURCE"/>
+  <resource name="2-1 이동" type="RESOURCE"/>
+  <resource name="승천" type="RESOURCE"/>
+  <resource name="goodgunyi" type="RESOURCE"/>
+  <resource name="goodgunyi2" type="RESOURCE"/>
+  <resource name="spike_thrown_down" type="RESOURCE"/>
+  <resource name="thrown_down2" type="RESOURCE"/>
+  <resource name="spike_thrown_right" type="RESOURCE"/>
+  <resource name="trigger" type="GROUP"/>
+  <resource name="game_over" type="GROUP"/>
+</resources>

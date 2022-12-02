@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="room 2 - 2" type="RESOURCE"/>
+  <resource name="room2-3" type="RESOURCE"/>
+  <resource name="room2-1" type="RESOURCE"/>
+  <resource name="tutorial" type="RESOURCE"/>
+  <resource name="test" type="RESOURCE"/>
+  <resource name="군대" type="RESOURCE"/>
+  <resource name="군대 승천" type="RESOURCE"/>
+  <resource name="1-1" type="RESOURCE"/>
+  <resource name="1-2" type="RESOURCE"/>
+  <resource name="3-1" type="RESOURCE"/>
+  <resource name="3-1-2" type="RESOURCE"/>
+  <resource name="3-2" type="RESOURCE"/>
+  <resource name="3-2-2" type="RESOURCE"/>
+  <resource name="blsc" type="RESOURCE"/>
+  <resource name="room2" type="RESOURCE"/>
+</resources>

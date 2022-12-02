@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="캐릭터" type="GROUP"/>
+  <resource name="플랫폼" type="GROUP"/>
+  <resource name="함정" type="GROUP"/>
+  <resource name="기타" type="GROUP"/>
+  <resource name="굳건이" type="RESOURCE"/>
+  <resource name="입영통지서" type="RESOURCE"/>
+  <resource name="입영" type="RESOURCE"/>
+  <resource name="승천" type="RESOURCE"/>
+  <resource name="철창" type="RESOURCE"/>
+</resources>
